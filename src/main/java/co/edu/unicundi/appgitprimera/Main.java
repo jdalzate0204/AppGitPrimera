@@ -9,8 +9,6 @@ package co.edu.unicundi.appgitprimera;
  *
  * @author acer
  */
-public class Principal {
-    public static void main(String[] args) {
-        System.out.println("Hola Mundo");
-    }
+public class Main {
+    
 }
