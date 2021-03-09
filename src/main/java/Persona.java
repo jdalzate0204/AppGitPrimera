@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.edu.unicundi.appgitprimera;
 
 /**
  *
  * @author acer
  */
-public class Principal {
-    public static void main(String[] args) {
-        System.out.println("Hola Mundo UDEC!!!");
-    }
+public class Persona {
+    private int x;
 }
