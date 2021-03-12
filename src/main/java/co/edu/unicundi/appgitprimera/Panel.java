@@ -10,5 +10,7 @@ package co.edu.unicundi.appgitprimera;
  * @author acer
  */
 public class Panel {
-    
+
+    public Panel() {
+    }    
 }
