@@ -10,7 +10,17 @@ package co.edu.unicundi.appgitprimera;
  * @author acer
  */
 public class Udec {
+    private String nombre;
+    private String ubicacion;
 
+    public Udec() {
+    }
+
+    public Udec(String nombre, String ubicacion) {
+        this.nombre = nombre;
+        this.ubicacion = ubicacion;
+    }
+    
     /**
      * @return the nombre
      */
@@ -38,13 +48,4 @@ public class Udec {
     public void setUbicacion(String ubicacion) {
         this.ubicacion = ubicacion;
     }
-    private String nombre;
-    private String ubicacion;
-
-    public Udec(String nombre, String ubicacion) {
-        this.nombre = nombre;
-        this.ubicacion = ubicacion;
-    }
-    
-    
 }
