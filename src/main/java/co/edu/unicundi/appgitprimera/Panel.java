@@ -32,6 +32,7 @@ public class Panel {
      */
     public int getX() {
         int x = 5;
+        int z = 21; //En el servidor
         return x;
     }
 
