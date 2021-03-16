@@ -10,5 +10,8 @@ package co.edu.unicundi.appgitprimera;
  * @author acer
  */
 public class Main {
+
+    public Main() {
+    }
     
 }
