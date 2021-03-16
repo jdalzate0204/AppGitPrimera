@@ -33,6 +33,8 @@ public class Panel {
     public int getX() {
         int x = 5;
         int z = 21; //En local
+        float calculo = 3.3f;
+        double resultado = 3.0;
         return x;
     }
 
