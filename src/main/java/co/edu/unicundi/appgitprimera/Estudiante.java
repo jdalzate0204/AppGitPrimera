@@ -12,7 +12,7 @@ package co.edu.unicundi.appgitprimera;
 public class Estudiante {
     
     public Estudiante(){
-        
+        //Constructor
     }
     
 }
