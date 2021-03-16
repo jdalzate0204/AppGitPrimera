@@ -26,7 +26,8 @@ public class Panel {
     /**
      * 
      */
-    public Panel(int int calcular) {
+    public Panel(int calcular) {
+        this.calcular = calcular;
     }  
 
     /**
@@ -35,13 +36,10 @@ public class Panel {
     public int getX() {
         int x = 5;
         int z = 21; //En local
-<<<<<<< HEAD
         float calculo = 3.3f;
         double resultado = 3.0;
-=======
         int i = 8;
         System.out.println("");
->>>>>>> b416f8f22d2547637ff4d12ebc269ae15985fe61
         return x;
     }
 
