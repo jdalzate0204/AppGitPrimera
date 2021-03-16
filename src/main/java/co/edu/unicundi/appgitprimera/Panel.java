@@ -23,6 +23,8 @@ public class Panel {
     
     private int calcular;
     
+    private int calcular2;
+    
     /**
      * 
      */
